@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Gonagur_Coursera"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"functional": "cpp"
+		}
+	}
+}
